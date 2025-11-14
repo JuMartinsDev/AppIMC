@@ -49,7 +49,7 @@ O projeto foi feito com base nas aulas e nos exemplos de navegação do professo
   - **Equipe**
   - **Sair**
 
-![Uploading image.png…]()
+<img width="287" height="576" alt="image" src="https://github.com/user-attachments/assets/c57b0ba8-2de8-4a6e-b134-550b27215436" />
 
 ---
 
