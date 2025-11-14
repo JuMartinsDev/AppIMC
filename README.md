@@ -19,6 +19,7 @@ O projeto foi feito com base nas aulas e nos exemplos de navegação do professo
 ## Telas
 
 <img width="302" height="598" alt="image" src="https://github.com/user-attachments/assets/03cedbc4-988c-4e8f-ad9c-49e3650b9e2f" />
+<img width="286" height="577" alt="image" src="https://github.com/user-attachments/assets/f994ffef-b60c-4c2d-8cfc-fc44f85dbb1b" />
 <img width="283" height="576" alt="image" src="https://github.com/user-attachments/assets/65be7f98-c89b-4137-bfc9-c82b03782eb3" />
 <img width="299" height="588" alt="image" src="https://github.com/user-attachments/assets/73c81a67-6473-4132-9891-e2c6eeb69d45" />
 <img width="269" height="572" alt="image" src="https://github.com/user-attachments/assets/0f8b955e-e07e-48fc-9a48-8751bdabc3bd" />
@@ -38,6 +39,7 @@ O projeto foi feito com base nas aulas e nos exemplos de navegação do professo
 - Após o login, o usuário é encaminhado para o menu principal
 
 <img width="302" height="598" alt="image" src="https://github.com/user-attachments/assets/03cedbc4-988c-4e8f-ad9c-49e3650b9e2f" />
+<img width="286" height="577" alt="image" src="https://github.com/user-attachments/assets/fcc79217-4b5e-4fd5-962a-01ebc95410f1" />
 <img width="283" height="576" alt="image" src="https://github.com/user-attachments/assets/65be7f98-c89b-4137-bfc9-c82b03782eb3" />
 
 ---
