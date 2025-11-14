@@ -49,7 +49,7 @@ O projeto foi feito com base nas aulas e nos exemplos de navegação do professo
   - **Equipe**
   - **Sair**
 
-<img width="302" height="598" alt="image" src="https://github.com/user-attachments/assets/03cedbc4-988c-4e8f-ad9c-49e3650b9e2f" />
+![Uploading image.png…]()
 
 ---
 
@@ -76,7 +76,7 @@ O projeto foi feito com base nas aulas e nos exemplos de navegação do professo
 - A lista é exibida dentro de cartões
 - Contém um botão de voltar para retornar ao menu
 
-<img width="271" height="589" alt="image" src="https://github.com/user-attachments/assets/a735c302-53ab-459b-a23a-8546dd84e876" />
 <img width="268" height="579" alt="image" src="https://github.com/user-attachments/assets/89e8a420-dabc-480e-b647-e76325cbdcc3" />
+<img width="271" height="589" alt="image" src="https://github.com/user-attachments/assets/a735c302-53ab-459b-a23a-8546dd84e876" />
 
 
